@@ -1,0 +1,73 @@
+.header {
+  margin-top: 50px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  color: aliceblue;
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div > ul > li {
+  padding: 30px;
+  list-style-type: none;
+  border-radius: 5%;
+  width: 450px;
+  height: 200px;
+  /* margin: auto; */
+  margin: 19px;
+}
+
+.back {
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.divback {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: -20px;
+  display: flex;
+  justify-content: center;
+}
+.hookah {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("hookah.png");
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+
+.blackjack {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("blackJack.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.drums {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("drums.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.an {
+  border: 2px solid blue;
+}

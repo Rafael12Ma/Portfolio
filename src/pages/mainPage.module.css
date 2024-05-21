@@ -1,0 +1,30 @@
+.headerProjects {
+  color: #f7eedd;
+  font-size: 30px;
+  width: 1536px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  /* background-color: red; */
+  justify-content: center;
+  display: flex;
+}
+
+.displayProjects {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  display: flex;
+  font-weight: bold;
+}
+
+.displayProjects:hover{
+    opacity: 0.9;
+}
+
+/* .card{
+    display: flex;
+    justify-content: center;
+    width: 20;
+    height: 20;
+    background-color: ; 
+} */

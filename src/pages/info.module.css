@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid blue;
+}
+
+.hr {
+  width: 20%;
+  opacity: 0.4;
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.educationHeader {
+  color: #312ee2;
+}
+
+.text {
+  color: rgb(97, 184, 216);
+  width: 50%;
+  margin: auto;
+}
+
+.span {
+  color: red;
+}
+
+.section {
+  padding: 30px;
+}

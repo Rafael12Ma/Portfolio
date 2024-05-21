@@ -1,0 +1,26 @@
+.an {
+  text-decoration: none;
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.text {
+  font-size: 15px;
+  color: blueviolet;
+}
+
+.ternTrue {
+  color: red;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  margin: auto;
+  justify-content: center;
+}
+
+img {
+  padding: 10px;
+}
